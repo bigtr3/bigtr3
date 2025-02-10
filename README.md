@@ -64,7 +64,8 @@
 </div>
 
 <br>
+<!-- 
 <h3 align="center">📊 Most Used Languages 📊</h3>
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtr3&layout=donut)](https://github.com/bigtr3/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtr3&layout=donut)](https://github.com/bigtr3/github-readme-stats)</div> 
+-->
